@@ -2,6 +2,15 @@
 
 Welcome to the React Task Manager! This web application helps you keep track of your tasks in a streamlined and efficient manner. Built with React and leveraging local storage for data retention, the app supports a range of features to help you stay organized and productive.
 
+
+
+
+
+![Screenshot (89)](https://github.com/user-attachments/assets/a0899348-fe61-43d3-89bf-bce6cbbda976)
+
+
+
+
 ## Features
 
 1. Task Editing: Modify existing tasks to update their titles, descriptions, or importance levels.

@@ -1,5 +1,4 @@
-# TO_DO_REACT
-The TODO List Application is a dynamic, interactive Web application developed to assist in effective task management on a daily basis. This application provides a front-end that is modern and responsive to creating, updating, marking, and deleting TODO items using React.
+# React To-Do List Web App
 
 This is a simple to-do list web application built with React, utilizing local storage for data persistence. The app allows users to manage their tasks efficiently by creating, editing, deleting, searching, and prioritizing tasks based on importance. Additionally, tasks can be sorted by completion status, importance, or date and time.
 
@@ -31,7 +30,7 @@ This is a simple to-do list web application built with React, utilizing local st
 Clone the repository:
 
 ```
-git clone https://github.com/GAURAV142004/TO_DO_REACT
+git clone https://github.com/GAURAV142004
 ```
 
 ## Navigate to the project directory:
